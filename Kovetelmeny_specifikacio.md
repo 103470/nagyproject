@@ -34,6 +34,8 @@ A csapatunk szeretne egy webes kérdőívet készíttetni adatgyűjtés céljáb
 
 ## 6.Jelenlegi üzleti folyamatok modellje
 
+A kérdőívek általános feladata az, hogy felmérjék az emberek véleményét egy vagy több dologgal kapcsolatban. Rengeteg kérdőív van az interneten. Miben különbözne egy új, milyen újítást tudna bevezetni? Szerintünk az rendben van, hogy egy kérdőívet bárki kitölthet. Ugyanakkor sok olyan szituació van amikor azok véleményére szeretnénk több kreditet adni akik jártasak abban a bizonyos témában. Ezért a kérdőívünkbe implementálni szeretnénk egy úgy nevezett "szűrést" amely eldönti, hogy letesyteljük az aktuális felhasználó hozzáértését.
+
 ## 7.Igényel üzleti folyamatok modellje
 
 ## 8.Követelmény lista
