@@ -38,6 +38,13 @@ A kérdőívek általános feladata az, hogy felmérjék az emberek véleményé
 
 ## 7.Igényel üzleti folyamatok modellje
 
+- Online megjelenés. <br>
+- Válaszok elmentése adatbázisba. <br>
+- Az egyéb válaszmegjelölés átnézése, és csak az értelmes válaszok elmentése adatbázisba. <br>
+- A kérdőív folytatásának garantalásása, nem várt kilépés esetén. <br>
+- Kötelező adatok megadásának ellenörzése. <br>
+- A teszt kérdések megválaszolása esetén a helyesség ellenőrzése. <br>
+
 ## 8.Követelmény lista
 
 ## 9.Fogalomszótár
