@@ -12,14 +12,16 @@
 
 ### A projekt célja az hogy létrehozzunk egy olyan rendszert, ami különböző adatok, predikciók, vélemények megkérdezésére szolgál. A rendszert szeretnénk úgy létrehozni, hogy ez minél több ember számára elérhető legyen. Erre legalkalmasabb felületnek egy weboldalt gondolunk, hiszen az bármilyen eszközről elérhető, feltéve ha van internet kapcsolatunk. A rendszernek olyannak kell lennie, hogy az a különböző felhasználók által szolgált adatokat el tudja tárolni. Emellett ha egy felhasználó válaszol néhany kérdésre, majd abbahagyja a kérdőív kitöltését, akkor később azt tudja folytatni. Ahhoz hogy felmérjük a felhasználó témához értését tegyünk fel kalibráló kérdéseket, hiszen nem mindegy hogy egy témában jártas személy válaszol a kérdésekre, vagy egy olyan ember akinek az adott téma nem az erőssége.
 
-### 4.Funkcionális követelmények
+## 4.Funkcionális követelmények
 
-### 5.Rendszerre vonatkozó törvények, szabványok, ajánlások
 
-### 6.Jelenlegi üzleti folyamatok modellje
 
-### 7.Igényel üzleti folyamatok modellje
+## 5.Rendszerre vonatkozó törvények, szabványok, ajánlások
 
-### 8.Követelmény lista
+## 6.Jelenlegi üzleti folyamatok modellje
 
-### 9.Fogalomszótár
+## 7.Igényel üzleti folyamatok modellje
+
+## 8.Követelmény lista
+
+## 9.Fogalomszótár
