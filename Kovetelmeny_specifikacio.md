@@ -14,7 +14,15 @@
 
 ## 4.Funkcionális követelmények
 
-
+### A kerdőiv kezelésével kapcsolatban: <br>
+   - A kérdőívben a kérdesek legyenek világosan és érthetően megfogalmazva. <br>
+   - Ezen felül a kérdőív legyen könnyen kezelhető valamint egyszerűen megérthető/átlátható. <br>
+   - A vizuális felülettel kapcsolatban: <br>
+   - A vizualis felület legyen tetszetős/kidolgozott, még sem túl komplikált. <br>
+   - Szeretnénk, hogy a felület is átlátható legyen(látni lehet, hogy mely funkciók hol találhatók, és nem kell kutatni utánuk). <br>
+   - A kerdőiv funkcióival kapcsolatban: <br>
+   - A weboldalnak képesnek kell lennie elmenteni a kérdoivek jelenlegi státuszát/állaspotját. <br>
+   - Ez azért fontos, ugyanis ha bármi törtenik a kérdoiv kitöltése során a kitöltőnek tudnia kell folytatnia a már meg kezdett,de még be nem fejezett kerdőivet. <br>
 
 ## 5.Rendszerre vonatkozó törvények, szabványok, ajánlások
 
