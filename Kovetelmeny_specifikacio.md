@@ -47,4 +47,16 @@ A kérdőívek általános feladata az, hogy felmérjék az emberek véleményé
 
 ## 8.Követelmény lista
 
+  - Biztonság https protocol amellyel biztosítjuk a felhasználó védettségét a weben. <br>
+  - Egy választási lehetőséggel rendelkező kérdés és annak a választófelülete <br>
+  - Több választási lehetőséggel rendelkező kérdés és annak a választófelülete <br>
+  - Saját válasz beírása lehetőséggel rendelkező kérdés és annak a beírósáv felülete <br>
+  - Legördülő menü hozzáadása és annak a felülelte <br>
+  - Egy validációs ikon beimplementálása a helyesen beírt adat visszacsatolásához <br>
+  - Egy validációs ikon beimplementálása a helytelenül beírt adat visszacsatolásához <br>
+  - Dinamikusan változó kérdés implementlása egy kapcsoló bekapcsolásával <br>
+  - Adatbázis kommunikáció a weboldal és egy webszerver adatbázisával <br>
+  - Díszítés megalkotása a felülethez <br>
+  - UI megalkotása a felülethez <br>
+
 ## 9.Fogalomszótár
