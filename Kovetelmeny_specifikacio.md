@@ -6,7 +6,7 @@
 
 ## 2.Jelenlegi helyzet
 
-A csapatunk szeretne egy webes kérdőívet készíttetni adatgyűjtés céljából. A klubbunkról több helyen lehet hallani, hogy oda vannak az internetes kérdőívekért, mivel megrögzött adatgyűjtők alapították. Szeretnénk mindenféle adatot begyűjteni a világ minden részéről, erre azért van szükség,hogy egy-egy témáról ne szubjektív véleményt kapjunk. Ahogy a mondás is tartja, "Több szem többet lát!". Elsősorban olyan emberek véleményére vagyunk kíváncsiak akik valamennyire jól informáltak a világ történéseiről, nincsenek bezárkózva a külvilágtól, mivel főleg állatokról és a környezetükről szeretnénk kérdezni. Cégünk jelenleg kutatást végez a pingvineken, így nem kizárt, hogy róluk lesz majd az első kérdőívünk.
+A csapatunk szeretne egy webes kérdőívet készíteni adatgyűjtés céljából. Szeretnénk mindenféle adatot begyűjteni a világ minden részéről, erre azért van szükség,hogy egy-egy témáról ne szubjektív véleményt kapjunk. Ahogy a mondás is tartja, "Több szem többet lát!". Elsősorban olyan emberek véleményére vagyunk kíváncsiak akik valamennyire jól informáltak a világ történéseiről, nincsenek bezárkózva a külvilágtól, mivel főleg állatokról és a környezetükről szeretnénk kérdezni. 
 
 ## 3.Vágyálom rendszer
 
