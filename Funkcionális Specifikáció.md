@@ -6,14 +6,41 @@
 - 
 
 ## 2.Jelenlgi helyzet
+Jelenleg a megrendelő egy papíralapú kérdőív rendszert alkamaz. Ennek hosszadalmas a kiértékelése,
+rendezetten tartása. A jelenlegi rendszeren belül is léteznek előzetes tudást felmérő kérdések,
+melyeket a megrendelő szeretné ,ha implementálnánk a készülő rendszerbe is. A jelenlegi kérdőív kitöltése
+egy 10-20 percet vesz igénybe, a kérdőíveket tollal töltik ki, így ha valamely résztvevő megváltoztatja
+a véleményét, kisatírozott válaszok jönnek létre, így jelenleg semmilyen módon sem lehetséges a gépi
+kiértekelés. Mivel a rendszer papíralapú és a kiértékelése sem gépi, így a kapott válaszoka/jóslatokat
+kézzel vezetik egy papíralapú füzetbe. Illetve a kiérteklést is kézzel számolják.
+A jelenlegi rendszer funkcionalitás szempontjából elavult, nem fenntartható az effajta működés
+a jövőre nézve. Ennek a rendszernek és kiértékelésnek szeretné a megrendelő az egyszerűsítését és automatizálását.
 
 ## 3.Jelenlegi üzleti folyamatok modellje
 
 ## 4.Vágyálomrendszer
+Egy olyan rendszer szükséges számunkra amely kérdőív kitöltése kapcsán adatok feldolgozását teszi lehetővé. Funkcionalitást tekintve a rendszer egy kerdőívből álljon, tehát a felhasználó egy barátságos és egyértelmű felületet kell, hogy kapjon amin elsősorban fel kell, hogy mérjük tudását és a kérdőív másik felében megfelelő súlyozással tudjuk a válaszát feldolgozni. Amint ecseteltem, a kérdőív első része egy felmérés arról, hogy az illetőnek a témával kapcsolatban mennyi tudása van. A második felében pedig egyszerű kérdésekre vár választ a rendszer annak függvényében, hogy a feldolgozott adatból később egy jövőbeli becslést hajtsunk végre automatizáltan.
 
 ## 5.Igényelt üzleti folyamatok modellje
 
 ## 6.Használati esetek
+A rendszer célja nem más, mint hogy az ADMINISZTRÁTOROK álltal létrehozozz kérdőíveket, az oldal LÁTOGATÓI tudják kitölteni, igy adatokat biztosítva a felméréshez.
+Az ADMINOK és a LÁTOGATÓK különbözőképpen tudják majd használni a rendszert:
+
+1. ADMINOK:
+1.1. Kérdőívek létrehozása a rendszerbe.
+1.1.2. A kérdőívekhez egy teszt csatolása, amiből kiderül, hogy a kitöltőnek mennyi tudása van a felmérés témakörében.
+1.1.3. A kérdőívekhez témában megfelelő kép feltöltése.
+1.2. A felmérés statisztikáinak elérése.
+1.2.1. A statisztikák megtekintése.
+1.2.2. A statisztikák kimentése a használt eszközre.
+1.2.3. A statisztikák elmentése és tárolása egy adatbázisban
+1.3. A már létező kérdőívek törlése.
+
+2. LÁTOGATÓK:
+2.1. Kérdőívek és az azt megelőző tesztek kitöltése.
+2.2. Váltás éjszakai és nappali mód között.
+2.3. A LÁTOGATÓ eldöntheti, hogy anonim szeretne e maradni, vagy a kitöltéséhez adja a nevét.
 
 ## 7.Funkció-követelmény megfeleltetés
 
