@@ -56,10 +56,16 @@ Az ADMINOK és a LÁTOGATÓK különbözőképpen tudják majd használni a rend
 2.1. Kérdőívek és az azt megelőző tesztek kitöltése. <br>
 2.2. A LÁTOGATÓ eldöntheti, hogy anonim szeretne e maradni, vagy a kitöltéséhez adja a nevét. <br>
 
+
 ![hasznalati esetek](https://user-images.githubusercontent.com/113610878/200346421-1d44d950-b3e7-4b9e-8553-f1435b1f7566.png)
 
 
 ## 7.Funkció-követelmény megfeleltetés
+
+- A felhasználó által megadott válaszokat csak az Admin felhasználók tekinthetik meg.<br>
+- Ezzel elkerüljük az információk illetéktelen felsználását.<br>
+- Többfajta kérdés típus közül választhat a megrendelő ezzel létrehozhat olyan kérdéseket amelyekre az általa megadot válaszok közül való választással lehet    válaszolni.<br>
+- A megrendelő a maga ítlése szerint állíthatja össze a kérdőívet, amihez egy skeleton-t bizotsítunk.<br>
 
 ## 8.Képernyőterv
 
