@@ -3,9 +3,10 @@
 ## 1.Áttekintés
 - Csapatunk célja létrehozni egy kérdőívet, amely segítségével szeretnénk információt gyűjteni
 - Az gyűjtött információt egy adatbázisban tároljuk
-- 
+- A fő kérdések előtt egy felmérést kell kitöltenie a felhasználónak.
+- A felmérés célja, hogy megmutassa mennyire jártas az adott felhasználó a témában
 
-## 2.Jelenlgi helyzet
+## 2.Jelenlegi helyzet
 Jelenleg a megrendelő egy papíralapú kérdőív rendszert alkamaz. Ennek hosszadalmas a kiértékelése,
 rendezetten tartása. A jelenlegi rendszeren belül is léteznek előzetes tudást felmérő kérdések,
 melyeket a megrendelő szeretné ,ha implementálnánk a készülő rendszerbe is. A jelenlegi kérdőív kitöltése
