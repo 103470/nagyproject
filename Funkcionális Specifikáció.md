@@ -28,19 +28,19 @@ A rendszer célja nem más, mint hogy az ADMINISZTRÁTOROK álltal létrehozozz 
 Az ADMINOK és a LÁTOGATÓK különbözőképpen tudják majd használni a rendszert:
 
 1. ADMINOK:
-1.1. Kérdőívek létrehozása a rendszerbe.
-1.1.2. A kérdőívekhez egy teszt csatolása, amiből kiderül, hogy a kitöltőnek mennyi tudása van a felmérés témakörében.
-1.1.3. A kérdőívekhez témában megfelelő kép feltöltése.
-1.2. A felmérés statisztikáinak elérése.
-1.2.1. A statisztikák megtekintése.
-1.2.2. A statisztikák kimentése a használt eszközre.
-1.2.3. A statisztikák elmentése és tárolása egy adatbázisban
-1.3. A már létező kérdőívek törlése.
+1.1. Kérdőívek létrehozása a rendszerbe. <br>
+1.1.2. A kérdőívekhez egy teszt csatolása, amiből kiderül, hogy a kitöltőnek mennyi tudása van a felmérés témakörében. <br>
+1.1.3. A kérdőívekhez témában megfelelő kép feltöltése. <br>
+1.2. A felmérés statisztikáinak elérése. <br>
+1.2.1. A statisztikák megtekintése. <br>
+1.2.2. A statisztikák kimentése a használt eszközre. <br>
+1.2.3. A statisztikák elmentése és tárolása egy adatbázisban <br>
+1.3. A már létező kérdőívek törlése. <br>
 
 2. LÁTOGATÓK:
-2.1. Kérdőívek és az azt megelőző tesztek kitöltése.
-2.2. Váltás éjszakai és nappali mód között.
-2.3. A LÁTOGATÓ eldöntheti, hogy anonim szeretne e maradni, vagy a kitöltéséhez adja a nevét.
+2.1. Kérdőívek és az azt megelőző tesztek kitöltése. <br>
+2.2. Váltás éjszakai és nappali mód között. <br>
+2.3. A LÁTOGATÓ eldöntheti, hogy anonim szeretne e maradni, vagy a kitöltéséhez adja a nevét. <br>
 
 ## 7.Funkció-követelmény megfeleltetés
 
