@@ -48,7 +48,6 @@ A kérdőívek általános feladata az, hogy felmérjék az emberek véleményé
   - Több választási lehetőséggel rendelkező kérdés és annak a választófelülete <br>
   - Saját válasz beírása lehetőséggel rendelkező kérdés és annak a beírósáv felülete <br>
   - Legördülő menü hozzáadása és annak a felülelte <br>
-  - Dinamikusan változó kérdés implementlása egy kapcsoló bekapcsolásával <br>
   - Adatbázis kommunikáció a weboldal és egy webszerver adatbázisával <br>
   - Díszítés megalkotása a felülethez <br>
   - UI megalkotása a felülethez <br>
