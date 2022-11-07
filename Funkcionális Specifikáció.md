@@ -26,6 +26,18 @@ Egy olyan rendszer szükséges számunkra amely kérdőív kitöltése kapcsán 
 
 ## 5.Igényelt üzleti folyamatok modellje
 
+A megrendelő egy olyan kérdőívet szeretne amelynek a fő kérdések megválaszolása előtt felméri egy "mini kérdőív" formájában, hogy a felhasználó mennyire jártás az adott témában. A válaszok egy adatbázisban kerülnek tárolásra. A rendszer rendelkezik egy admin-látogató jogosultság rendszerrel.
+### Admin:
+- Bejelentekezés után megtekintheti a megadott válaszokat
+- Szerkesztheti a kérdőívet, hozzáadhat új kérdéseket vagy törölheti a már meglévőket
+- Új felhasználó(kat) (admin) adhat hozzá a rendeszerhez
+### Látogató:
+- A kérdőív kitöltésére van lehetősége
+
+
+![Megnevezetlen diagram drawio (2)](https://user-images.githubusercontent.com/113610538/200349658-38ca66a1-f361-4b97-87c7-ec0c94be09d6.png)
+
+
 ## 6.Használati esetek
 A rendszer célja nem más, mint hogy az ADMINISZTRÁTOROK álltal létrehozozz kérdőíveket, az oldal LÁTOGATÓI tudják kitölteni, igy adatokat biztosítva a felméréshez.
 Az ADMINOK és a LÁTOGATÓK különbözőképpen tudják majd használni a rendszert:
