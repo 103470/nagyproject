@@ -69,5 +69,7 @@ Az ADMINOK és a LÁTOGATÓK különbözőképpen tudják majd használni a rend
 
 ## 8.Képernyőterv
 
+![asd drawio](https://user-images.githubusercontent.com/113610538/191433773-89816925-c2ef-4b96-9857-d7128a57db61.png)
+
 ## 9.Fogalomszótár
 Skeleton: Egy váz ami alapul szolgál a végső termék elkészítéséhez.
