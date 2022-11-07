@@ -42,8 +42,7 @@ Az ADMINOK és a LÁTOGATÓK különbözőképpen tudják majd használni a rend
 
 ### 2. LÁTOGATÓK:
 2.1. Kérdőívek és az azt megelőző tesztek kitöltése. <br>
-2.2. Váltás éjszakai és nappali mód között. <br>
-2.3. A LÁTOGATÓ eldöntheti, hogy anonim szeretne e maradni, vagy a kitöltéséhez adja a nevét. <br>
+2.2. A LÁTOGATÓ eldöntheti, hogy anonim szeretne e maradni, vagy a kitöltéséhez adja a nevét. <br>
 
 ## 7.Funkció-követelmény megfeleltetés
 
