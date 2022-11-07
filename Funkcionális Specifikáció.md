@@ -70,3 +70,4 @@ Az ADMINOK és a LÁTOGATÓK különbözőképpen tudják majd használni a rend
 ## 8.Képernyőterv
 
 ## 9.Fogalomszótár
+Skeleton: Egy váz ami alapul szolgál a végső termék elkészítéséhez.
