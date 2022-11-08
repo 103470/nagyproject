@@ -48,9 +48,9 @@ A webalkalmazás használatához Internet kapcsolatra van szükség.
 
 Maga a kérdőív egy webszerveren lesz elérhető, így a kliens oldalon mindössze ennyinek kell szerepelnie: <br>
 
-Egy böngésző amiben támogatott az adott weboldal elérése. (Google Chrome, Mozilla Firefox, Opera, stb.)
-Webszerver eléréséhez internetkapcsolat szükségeltetik.
-Elsősorban számítógépes környezet preferált, de reszponzív megoldás, telefonos megoldás működik.
+- Egy böngésző amiben támogatott az adott weboldal elérése. (Google Chrome, Mozilla Firefox, Opera, stb.) <br>
+- Webszerver eléréséhez internetkapcsolat szükségeltetik. <br>
+- Elsősorban számítógépes környezet preferált, de reszponzív megoldás, telefonos megoldás működik. <br>
 
 ## 10.Karbantartási terv
 
