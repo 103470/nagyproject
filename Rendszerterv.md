@@ -38,3 +38,8 @@ A rendszer két különböző jogosultsággal rendelkezik: amellyek az admin és
 ## 11. Adatbázis terv
 
 ## 12. Implementációs terv
+
+- A webes alkalmazások előnyeit kihasználva nincs szükség kompatibilitásra, hiszen a php szerver oldalon fut.<br>
+- A megjelenítéshez használt technológiák minimális követelményekkel rendelkeznek.<br>
+- Maguk a kérdések egy form alapján lesznek megalkotva és a bennük lévő adatokat a PHP Post metódussal fogjuk a webszerver számára, onnan pedig az adatbázisba betölteni.<br>
+- Az adatbázist a PHP által nyújtott MySQL adatbázis elérés eszközeivel fogjuk elérni (mint pl.: PDO vagy MySQLi).
