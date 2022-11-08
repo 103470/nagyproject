@@ -38,14 +38,14 @@ A rendszer két különböző jogosultsággal rendelkezik: amellyek az admin és
 - Látogató <br>
 
 ### Rendszerhasználati esetek és lefutásuk:
-## Adminisztrátor:
+ Adminisztrátor:
 
 - Teljes hozzáférése van a rendszerhez <br>
 - Adatbázis tartalmát látthatja, válltoztathatja <br>
 - Felhasználói adatok módosítása <br>
 - Kérdések hozzáadása/törlése/válltoztatása <br>
 
-## Látogató:
+ Látogató:
 - Ki kell tölteni a válaszokat, nem lehet átugorni <br>
 - A végén beküldi a válaszait <br>
 
