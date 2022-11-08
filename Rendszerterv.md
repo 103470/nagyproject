@@ -33,6 +33,23 @@ A rendszer két különböző jogosultsággal rendelkezik: amellyek az admin és
 
 ## 5. Funkcionális terv
 
+### Rendszerszereplők:
+- Admin <br>
+- Látogató <br>
+
+### Rendszerhasználati esetek és lefutásuk:
+## Adminisztrátor:
+
+- Teljes hozzáférése van a rendszerhez <br>
+- Adatbázis tartalmát látthatja, válltoztathatja <br>
+- Felhasználói adatok módosítása <br>
+- Kérdések hozzáadása/törlése/válltoztatása <br>
+
+## Látogató:
+- Ki kell tölteni a válaszokat, nem lehet átugorni <br>
+- A végén beküldi a válaszait <br>
+
+
 ## 6. Fizikai környezet
 
 Az alkalmazás webes felületre, elsősorban (nagyobb képernyős eszközökre) asztali számítógépekre, laptopokra és táblagépekre készül, ezért a felhasználói élmény érdekében célszerű így használni, viszont elérhető okostelefonról és kisebb tabletről is.
