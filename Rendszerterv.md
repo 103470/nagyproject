@@ -44,6 +44,15 @@ A webalkalmazás használatához Internet kapcsolatra van szükség.
 
 ## 8. Teszt terv
 
+A tesztelés az alkalmazás fejlesztés egyik, hanem a legfontosabb mellékteendője, mivel ezekből a tesztekből derül ki,
+hogy mik vannak teljesen készen, és miket kell a későbbiekben javítani. Ezeket a teszteket a fejlsztők hajtják végre, általában a saját részükön, hogy pontosan tudják,
+hogy hol keressék az esetleges hibákat.
+
+- Az tesztelési a fejlesztéssel párhuzamosan, funkciók elkészítését követően, az oldal építése közben történik mind ameddig el nem jutunk egy szinte kész állapotba, amit az alpha teszt követ. <br>
+
+- Az alpha tesztet a fejlesztő csapat fogja elvégezni, ekkor a funkciók, különboző böngészői környezetekben hogyan viselkedik az oldal. Amennyiben ez a könyvelt tesztelési folyamat lezárul következik az béta teszt. <br>
+
+
 ## 9. Telepítési terv
 
 Maga a kérdőív egy webszerveren lesz elérhető, így a kliens oldalon mindössze ennyinek kell szerepelnie: <br>
