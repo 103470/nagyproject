@@ -17,6 +17,12 @@ A rendszer célja, hogy a információt gyűjtsön az emberektől. A fő kérdé
 
 ## 4. Üzleti folyamatok modellje
 
+A rendszer két különböző jogosultsággal rendelkezik: amellyek az admin és a látogató(felhasználó). A látogató csak a kérdőív megtekintésére és/vagy kitöltésére jogosult, míg az admin szerkesztheti a kérdőívet, vagy admin jogosultságot adhat az általa kiválasztott embereknek.<br>
+
+
+![Megnevezetlen diagram drawio (3)](https://user-images.githubusercontent.com/113610538/200619751-c2213b8a-4989-456f-8ad6-408b20f690ee.png)
+
+
 ## 5. Funkcionális terv
 
 ## 6. Fizikai környezet
