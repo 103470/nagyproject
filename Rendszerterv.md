@@ -35,6 +35,14 @@ A rendszer két különböző jogosultsággal rendelkezik: amellyek az admin és
 
 ## 10.Karbantartási terv
 
+### A weboldal folyamatos üzemeltetése és karban tartása a következőket foglalja magában:<br>
+
+- A felhasználók által bejelentett bugok, hibák kijavítása.<br>
+- Igény esetén a kérdőív funkcióinak bővítése.<br>
+- Igény esetén a kérdőív kérdéseinek bővítése.<br>
+- A böngészők újabb verzióival való kompatibilitás.<br>
+- A felhasználók bejelentkezési információinak megváltoztatása, illetve törlése.<br>
+
 ## 11. Adatbázis terv
 
 ## 12. Implementációs terv
