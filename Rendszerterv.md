@@ -6,6 +6,14 @@ A rendszer célja, hogy a információt gyűjtsön az emberektől. A fő kérdé
 
 ## 2. Project terv
 
+A projektet weblapra fejlesztjük front- és backend segítségével. Az elkülönített feladatokon más-más emberek dolgoznak.
+### Frontend fejlesztése HTML/CSS segítségével <br>
+- Frontend felelős: Magos Balázs (JJ3NZ0)-HTML, CSS és oldal dizájn
+A feladat célja, hogy egy letisztult, könnyen kezelhető, igényes weblapot nyújtson a felhasználó számára. <br>
+
+- Backend felelős: Kémeri Martin (SSR0TI)-PHP és tesztelés
+Feladata a háttérben működő programok megírása, PHP kód, és az eredmény kiértékelés. <br>
+
 ## 3. Követelmények<br>
 
 - Webes megvalósítás.<br>
