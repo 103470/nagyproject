@@ -19,7 +19,11 @@ a jövőre nézve. Ennek a rendszernek és kiértékelésnek szeretné a megrend
 
 ## 3.Jelenlegi üzleti folyamatok modellje
 
-A kérdőívek célja, hogy információt gyűjtsön az emberektől az adott témával kapcsolatban. Ma már a esetek többségében a kérdőívek online felületen jelennek meg, de még mindig léteznek papír alapú kérdőívek is. A papír alapú kérdőívekkel történő információ gyűjtés lassú, így az online formában megjelenő kérdőívek, az információ gyors begyűjtésével és olykor egy adatbázisban eltárolva lehetőséget nyújtanak a gyors kiértékelésre amelyet ma már nem szükséges embereknek végezniük, egy számítógépes program is képes lehet már erre.
+A kérdőívek célja, hogy információt gyűjtsön az emberektől az adott témával kapcsolatban. Ma már a esetek többségében a kérdőívek online felületen jelennek meg, de még mindig léteznek papír alapú kérdőívek is. A papír alapú kérdőívekkel történő információ gyűjtés lassú, így az online formában megjelenő kérdőívek, az információ gyors begyűjtésével és olykor egy adatbázisban eltárolva lehetőséget nyújtanak a gyors kiértékelésre amelyet ma már nem szükséges embereknek végezniük, egy számítógépes program is képes lehet már erre.<br>
+
+
+![üzleti](https://user-images.githubusercontent.com/113610878/200770995-83d07d73-c8d9-4e51-b379-2b233bcf996d.png)
+
 
 ## 4.Vágyálomrendszer
 Egy olyan rendszer szükséges számunkra amely kérdőív kitöltése kapcsán adatok feldolgozását teszi lehetővé. Funkcionalitást tekintve a rendszer egy kerdőívből álljon, tehát a felhasználó egy barátságos és egyértelmű felületet kell, hogy kapjon amin elsősorban fel kell, hogy mérjük tudását és a kérdőív másik felében megfelelő súlyozással tudjuk a válaszát feldolgozni. Amint ecseteltem, a kérdőív első része egy felmérés arról, hogy az illetőnek a témával kapcsolatban mennyi tudása van. A második felében pedig egyszerű kérdésekre vár választ a rendszer annak függvényében, hogy a feldolgozott adatból később egy jövőbeli becslést hajtsunk végre automatizáltan.
