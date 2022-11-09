@@ -102,6 +102,10 @@ Maga a kérdőív egy webszerveren lesz elérhető, így a kliens oldalon mindö
 
 ## 11. Adatbázis terv
 
+
+![adat](https://user-images.githubusercontent.com/113610878/200767267-b8090e89-be29-442a-815d-e27e0af711d2.png)
+
+
 ## 12. Implementációs terv
 
 - A webes alkalmazások előnyeit kihasználva nincs szükség kompatibilitásra, hiszen a php szerver oldalon fut.<br>
