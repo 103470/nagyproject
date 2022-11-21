@@ -15,8 +15,10 @@
         else{
             echo "<script>alert('Hibás felhasználónév vagy jelszó!')</script>";
         }
+    }
+?>
         
-        <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
     <meta charset="utf-8">
@@ -44,7 +46,7 @@
     </head>
 </html>
         
-    }
+    
 
-?>
+
 
