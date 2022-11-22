@@ -76,9 +76,7 @@ if(isset($_POST['adduser'])){
                     <label>Profilkép : </label>
                     <br>
                     <input type="file" name="image" id="img" required/>
-                    <br><br>
-                    <div class="g-recaptcha" data-sitekey="6LdIKcMaAAAAADmvhs5b3A9tce1GdjovsfLWvU8M"></div>
-                    <br>
+                    <br><br
                     <button type="submit" name="adduser" class="">Hozzáadás</button>
                     <br><br>
                     </div>
