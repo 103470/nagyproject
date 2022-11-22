@@ -79,7 +79,7 @@ if(isset($_POST['adduser'])){
                     <br><br>
                     <div class="g-recaptcha" data-sitekey="6LdIKcMaAAAAADmvhs5b3A9tce1GdjovsfLWvU8M"></div>
                     <br>
-                    <button type="submit" name="register" class="reglog">Regisztráció</button>
+                    <button type="submit" name="adduser" class="">Hozzáadás</button>
                     <br><br>
                     </div>
                  </form>
