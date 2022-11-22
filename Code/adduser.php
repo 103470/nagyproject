@@ -73,9 +73,9 @@ if(isset($_POST['adduser'])){
                     <br>
                     <input type="password" name="password_2" placeholder="Írja be a jelszót újra" id="reg" required/>
                     <br><br>
-                    <label>Profilkép : </label>
+                    <label>Név : </label>
                     <br>
-                    <input type="file" name="image" id="img" required/>
+                    <input type="text" name="name" required/>
                     <br><br
                     <button type="submit" name="adduser" class="">Hozzáadás</button>
                     <br><br>
