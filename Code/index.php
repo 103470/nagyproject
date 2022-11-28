@@ -34,4 +34,4 @@ $choices = $con->query("SELECT * FROM answers WHERE qid = $qid");
             <button name="next" value="next">Tovább</button>
         </form>
     </body>
-</html
+</html>
