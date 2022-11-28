@@ -53,7 +53,7 @@ require 'connect.php'; ?>
             <form method="POST" action="addchoice.php">
                 <p>
                     <label>Kérdés száma</label>
-                    <input type="number" name="number" value="<?php echo $next;  ?>">
+                    <input type="number" name="number" value="<?php echo $next; ?>">
                 </p>
                 <p>
                     <label>Kérdés :</label>
