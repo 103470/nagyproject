@@ -59,10 +59,10 @@
             <tbody>
             <tr class="active-row">
                 <?php while($row = mysqli_fetch_assoc($result2)): ?>
-
+                <tr>
                     <td><?php echo $row['question']; ?> </td>
                     <td><?php echo $row['answer']; ?> </td>
- 
+                </tr>
                 <?php endwhile; ?>
             </tr>
             </tbody>
