@@ -31,3 +31,42 @@
             <li><a href="addqtext.php">Predikció hozzáadása</a></li>
             <li><a href="logout.php">Kijelentkezés</a></li>
         </ul>
+      </header>
+    <body>
+        <div>
+            <table class="styled-table">
+                <thead>
+                    <th>Kérdés</th>
+                    <th>Válasz</th>
+                </thead>
+                <tbody>
+                <?php while($row = mysqli_fetch_assoc($result)): ?>
+                <tr>
+                    <td><?php echo $row['question'] ?></td>
+                    <td><?php echo $row['answer'] ?></td>
+                </tr>
+                <?php endwhile; ?>
+                </tbody>
+
+
+            </table>
+            <table class="styled-table">
+            <thead>
+                    <th>Kérdés</th>
+                    <th>Válasz</th>
+
+            </thead>
+            <tbody>
+            <tr class="active-row">
+                <?php while($row = mysqli_fetch_assoc($result2)): ?>
+
+                    <td><?php echo $row['question']; ?> </td>
+                    <td><?php echo $row['answer']; ?> </td>
+ 
+                <?php endwhile; ?>
+            </tr>
+            </tbody>
+            </table>
+        </div>
+    </body>
+</html>
