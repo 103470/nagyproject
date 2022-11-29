@@ -10,4 +10,12 @@ Csapatunk célja egy online Questionnaire létrehozása. A teszt célja, hogy me
 
 ## 4, Magos Balázs
 
+Sikeres tesztek:
+![en_sikeres](https://user-images.githubusercontent.com/113610878/204661371-21a328f8-fae7-4436-917a-e712bbe2ada1.png)
+
+
+Sikertelen tesztek:
+![en_sikertelen](https://user-images.githubusercontent.com/113610878/204661413-ce8d6f55-a9a9-425f-8a7e-bd1b32f8fd2a.png)
+
+
 ## 5, Kémeri Martin
