@@ -24,3 +24,9 @@ Sikertelen tesztek:
 
 
 ## 5, Kémeri Martin
+
+Sikeres tesztek:
+![Martin_sikeres](https://user-images.githubusercontent.com/113610538/204662155-c5744c9b-7f93-4a47-842c-d9487964cf82.png)
+
+Sikertelen tesztek:
+![Martin_sikeres](https://user-images.githubusercontent.com/113610538/204662201-14c8cbb5-93d7-4174-903e-1742483f2acd.png)
