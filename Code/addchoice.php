@@ -41,43 +41,51 @@ require 'connect.php'; ?>
 <html>
     <head>
         <title>Kérdőív szerkesztés</title>
-        <link rel="stylesheet" type="text/css" href="">
+        <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
-        <header>
-            <p></p>
-        </header>
-
+    <header>
+        <ul>
+            <li><a href="addchoice.php">Kérdés hozzáadása</a></li>
+            <li><a href="addqtext.php">Predikció hozzáadása</a></li>
+            <li><a href="logout.php">Kijelentkezés</a></li>
+        </ul>
+    </header>
         <main>
-            <h2>Kérdés hozzáadása</h2>
+            <div class="nagytest">
+            <h2 class="choice">Kérdés hozzáadása</h2>
             <form method="POST" action="addchoice.php">
-                <p>
+                <div class="test">
+                <br>
                     <label>Kérdés száma</label>
-                    <input type="number" name="number" value="<?php echo $next; ?>">
-                </p>
-                <p>
+                    <input type="number" name="number" class="szam" value="<?php echo $next;  ?>">
+                <br>
+                <br>
                     <label>Kérdés :</label>
-                    <input type="text" name="question">
-                </p>
-                <p>
+                    <input type="text" name="question" class="textbox">
+                <br>
+                <br>
                     <label>Válasz 1 :</label>
-                    <input type="text" name="choice1">
-                </p>
-                <p>
+                    <input type="text" name="choice1" class="textbox">
+                <br>
+                <br>
                     <label>Válasz 2 :</label>
-                    <input type="text" name="choice2">
-                </p>
-                <p>
+                    <input type="text" name="choice2" class="textbox">
+                <br>
+                <br>
                     <label>Válasz 3 :</label>
-                    <input type="text" name="choice3">
-                </p>
-                <p>
+                    <input type="text" name="choice3" class="textbox">
+                <br>
+                <br>
                     <label>Válasz 4 :</label>
-                    <input type="text" name="choice4">
-                </p>
-
+                    <input type="text" name="choice4" class="textbox">
+                <br>
+                <br>
                 <button name="addqc" value="addqc">Hozzáadás</button>
+                <br>
+                </div>
             </form>
+            </div>
         </main>
 
     </body>
