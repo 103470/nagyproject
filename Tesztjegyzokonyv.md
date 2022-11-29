@@ -6,6 +6,8 @@ Csapatunk célja egy online Questionnaire létrehozása. A teszt célja, hogy me
 
 ## 2, Tesztelési terv hetóköre, célja
 
+Mint az 1. pontban is leírtuk a tesztelés fő célja a hibák kiszűrése, és azok minél hamarabbi kijavítása. A tesztelést és a javítást is a fejlesztők végzik.
+
 ## 3, Tesztek
 
 ## 4, Magos Balázs
