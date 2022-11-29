@@ -18,3 +18,16 @@
 
 
 ?>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Adatok</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <header>
+        <ul>
+            <li><a href="addchoice.php">Kérdés hozzáadása</a></li>
+            <li><a href="addqtext.php">Predikció hozzáadása</a></li>
+            <li><a href="logout.php">Kijelentkezés</a></li>
+        </ul>
