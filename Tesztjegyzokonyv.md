@@ -10,6 +10,9 @@ Mint az 1. pontban is leírtuk a tesztelés fő célja a hibák kiszűrése, és
 
 ## 3, Tesztek
 
+A tesztnek nem volt specifikus front-end és back-end tesztelője, mind a ketten egyaránt részt vettünk a különböző részek tesztelésében
+
+
 ## 4, Magos Balázs
 
 Sikeres tesztek:
