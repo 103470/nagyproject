@@ -103,7 +103,8 @@ Maga a kérdőív egy webszerveren lesz elérhető, így a kliens oldalon mindö
 ## 11. Adatbázis terv
 
 
-![adat](https://user-images.githubusercontent.com/113610878/200767267-b8090e89-be29-442a-815d-e27e0af711d2.png)
+![Megnevezetlen diagram drawio](https://user-images.githubusercontent.com/113610878/204733314-fa1f5ba2-0a56-4ca5-b4e7-4ec3cdd0228c.png)
+
 
 
 ## 12. Implementációs terv
